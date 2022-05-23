@@ -1,0 +1,58 @@
+.menü{
+    background-color: rgb(145, 131, 131);
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.m {
+   text-decoration: none;
+   color: red;
+   padding-left: 20px;
+   font-size: 40px;
+}
+
+.a{
+    text-decoration: none;
+    color: black;
+    padding-left: 20px;
+}
+
+.ü{
+    text-decoration: none;
+    color: black;
+    padding-left: 20px;
+}
+
+.h{
+    text-decoration: none;
+    color: black;
+    padding-left: 20px;
+}
+
+.merhaba{
+    font-size: 50px;
+    color: blueviolet;
+    padding-top: 20px;
+}
+
+.button{
+    border: none;
+    color: blue;
+
+}
+
+.hakkımızda{
+    font-size: 50px;
+    color: blueviolet;
+    padding-top: 20px;
+}
+
+.Ürünlerimiz{
+    font-size: 50px;
+    color: blueviolet;
+    padding-top: 20px;
+}
+
+.mü{
+    padding-top: 20px;
+}
